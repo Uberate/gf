@@ -1,4 +1,4 @@
-module gf
+module github.com/uberate/gf
 
 go 1.19
 
